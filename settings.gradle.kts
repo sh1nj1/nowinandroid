@@ -32,6 +32,7 @@ dependencyResolutionManagement {
 }
 rootProject.name = "nowinandroid"
 include(":app")
+include(":app-sandbox")
 include(":app-nia-catalog")
 include(":benchmarks")
 include(":core:common")
